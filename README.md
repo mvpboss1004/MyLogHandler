@@ -1,4 +1,3 @@
-#coding: utf-8
 # logging模块使用TCP/UDP发送纯日志内容
 python的logging模块允许使用多种方式（handler）记录/发送日志，包括：
 
